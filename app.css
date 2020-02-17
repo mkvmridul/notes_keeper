@@ -1,0 +1,17 @@
+.add-button{
+    position: fixed;
+    bottom: 10vh;
+    right: 5vw;
+}
+
+.card:hover{
+    box-shadow: 1px 4px 17px #000;
+}
+
+body{
+    background-image: url(bg.svg);
+    min-height: 100vh;
+    background-position: center bottom;
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
